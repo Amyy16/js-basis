@@ -19,6 +19,9 @@ console.log()
 
 #### List the tech fields that use JavaScript, for example FrontEnd.
 Some of the tech fields that use Javascript includes:
+1. Front End Developer
+2. Javascript developer
+3. 
 
 #### Differentiate between Statically typed and Dynamically typed programming languages and give examples of languages that fall under each category
 
